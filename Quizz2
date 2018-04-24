@@ -1,0 +1,29 @@
+Question 1:
+Un navigateur peut effectivement executer et lire du code en PHP
+
+Question2:
+la balise qui délimite du code en PHP est <?php ?>
+
+Question3:
+les instructions ce termine par un point virgule
+
+Question4:
+Les logiciles inclues dans WAMP sont apache, PHP et Winamp
+
+Question5:
+Une page peut en inclure plusieur avec PHP grâce à include
+
+Question6:
+false est un booléen
+
+Question7:
+for permet de répéter des instructions
+
+Question8:
+strlen retourn la longueur d'un texte
+
+Question9:
+Les tableaux en php comment à l'index 0
+
+Question10:
+la condition qui dit si le prix est strictement supèrieur à 10 est if($prix > 10)
