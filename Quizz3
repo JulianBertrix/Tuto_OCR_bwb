@@ -1,0 +1,29 @@
+Question1:
+Le symbole sépare le nom de la page de ses paramètres dans l'URL est "?"
+
+Question2:
+La méthode d'envoi de données la moins limitée est POST
+
+Question3:
+C'est vrai, il n'est pas possible de faire transiter de nombre négatif dans l'URL.
+
+Question4:
+La méthode d'envoi qui est plus sûre que l'autre est aucune des deux
+
+Question5:
+La fonction qui permet de vérifier si une variable existe dans la page est isset
+
+Question6:
+Quand on ne coche pas une case à cocher dans un formulaire la variable n'existe pas
+
+Question7:
+Faux ! Lorsqu'on envoie un mot de passe avec un champ de type "password", le mot de passe n'est pas chiffré par sécurité.
+
+Question8:
+avant d'appeler la fonction session_start() il faut qu'il soit appelé en premier
+
+Question9:
+Le temps qu'une variable de session est mémorisée par le serveur est tant que l'utilisateur ne ce déconnecte pas ou n'est pas inactif
+
+Question10:
+Le nombre de secondes associé à notre cookie que l'on indique dans l'appel à la fonction setcookie est le moment ou le cookie sera detruit
