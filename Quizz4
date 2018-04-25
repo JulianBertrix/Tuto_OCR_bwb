@@ -1,0 +1,29 @@
+Question1:
+Le rôle d'une base de données est de lire est stocker des données
+
+Question2:
+les colonnes d'une table sont des champs
+
+Question3:
+Une table peut contenir autant d'entrées que l'on souhaite
+
+Question4:
+le mots-clés permet de mettre à jour des informations dans une table est UPDATE
+
+Question5:
+L'utilisation de phpMyAdmin n'est pas obligatoire quand on utilise MySQL, c'est juste un outils
+
+Question6:
+Le symbole qui indique que l'on souhaite récupérer tous les champs d'une table est "*"
+
+Question7:
+Cette requête SQL SELECT nom, prenom FROM membres WHERE age >= 18 signifie que l'on souhaite récuperer les noms et prenoms des membres qui ont 18ans et plus
+
+Question8:
+Cette requête SQL SELECT UPPER(nom) FROM membres LIMIT 10 à pour effet de récuperer les noms de 10 membres et les transfomes en majuscules
+
+Question9:
+La requête qui retournerait la moyenne d'âge de tous mes membres est SELECT AVG(age) FROM membres
+
+Question10:
+le type de champ qui stocke les informations de date mais aussi d'heure est DATETIME
